@@ -1,0 +1,17 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "Simple enviroment config object",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "config",
+    "enviroment",
+    "bootstrap"
+  ],
+  "author": "GoAppes <dev@goappes.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": ">=2.4.1"
+  }
+}
